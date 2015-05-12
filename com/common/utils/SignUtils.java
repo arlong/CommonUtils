@@ -1,4 +1,4 @@
-package com.common.utils;
+ï»¿package com.common.utils;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
@@ -28,7 +28,7 @@ public class SignUtils {
 
 
     /**
-     * »ñÈ¡Ç©ÃûĞÅÏ¢
+     * è·å–ç­¾åä¿¡æ¯
      *
      * @param context
      * @return
@@ -45,7 +45,7 @@ public class SignUtils {
     }
 
     /**
-     * »ñÈ¡Ç©ÃûString
+     * è·å–ç­¾åString
      *
      * @param context
      * @return
@@ -58,7 +58,7 @@ public class SignUtils {
     }
 
     /**
-     * »ñÈ¡Ç©ÃûÖ¤ÊéÅäÖÃĞÅÏ¢
+     * è·å–ç­¾åè¯ä¹¦é…ç½®ä¿¡æ¯
      *
      * @param context
      * @return
@@ -86,7 +86,7 @@ public class SignUtils {
     }
 
     /**
-     * »ñÈ¡Ç©ÃûµÄMD5Öµ
+     * è·å–ç­¾åçš„MD5å€¼
      *
      * @param context
      * @return
@@ -99,7 +99,7 @@ public class SignUtils {
     }
 
     /**
-     * »ñÈ¡Ç©ÃûµÄSHA1Öµ
+     * è·å–ç­¾åçš„SHA1å€¼
      *
      * @param context
      * @return
@@ -112,7 +112,7 @@ public class SignUtils {
     }
 
     /**
-     * »ñÈ¡Ç©ÃûµÄSHA256Öµ
+     * è·å–ç­¾åçš„SHA256å€¼
      *
      * @param context
      * @return
@@ -126,7 +126,7 @@ public class SignUtils {
 
 
     /**
-     * »ñÈ¡Ç©ÃûµÄMD5Öµ
+     * è·å–ç­¾åçš„MD5å€¼
      *
      * @param bytes
      * @return
@@ -143,7 +143,7 @@ public class SignUtils {
     }
 
     /**
-     * »ñÈ¡Ç©ÃûµÄSHA1Öµ
+     * è·å–ç­¾åçš„SHA1å€¼
      *
      * @param bytes
      * @return
@@ -160,7 +160,7 @@ public class SignUtils {
     }
 
     /**
-     * »ñÈ¡Ç©ÃûµÄSHA256Öµ
+     * è·å–ç­¾åçš„SHA256å€¼
      *
      * @param bytes
      * @return
@@ -187,7 +187,7 @@ public class SignUtils {
     }
 
     /**
-     * »ñÈ¡Î´°²×°ApkµÄÇ©Ãû
+     * è·å–æœªå®‰è£…Apkçš„ç­¾å
      *
      * @param apkPath
      * @return
@@ -242,7 +242,7 @@ public class SignUtils {
     }
 
     /**
-     * »ñÈ¡ÒÑ°²×°apkÇ©Ãû
+     * è·å–å·²å®‰è£…apkç­¾å
      *
      * @param context
      * @param packageName

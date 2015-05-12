@@ -1,4 +1,4 @@
-package com.common.utils;
+锘縫ackage com.common.utils;
 
 import android.content.Context;
 import android.content.Intent;
@@ -26,8 +26,8 @@ public class ApkUtils {
     }
 
     /**
-     * 获取已安装Apk文件的源Apk文件
-     * 如：/data/app/com.sina.weibo-1.apk
+     * 鑾峰彇宸插畨瑁匒pk鏂囦欢鐨勬簮Apk鏂囦欢
+     * 濡傦細/data/app/com.sina.weibo-1.apk
      *
      * @param context
      * @param packageName
@@ -48,7 +48,7 @@ public class ApkUtils {
     }
 
     /**
-     * 安装Apk
+     * 瀹夎Apk
      *
      * @param context
      * @param apkPath
